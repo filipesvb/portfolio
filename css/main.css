@@ -56,7 +56,7 @@ header .header_logotype h2 {
 	width: 100%;
 	height: 100%;
 	background-repeat: no-repeat;
-	background-image: url("./assets/Filipe.png");
+	background-image: url("../assets/Filipe.png");
 	background-position: left bottom;
 
 	z-index: 2;
@@ -68,7 +68,7 @@ header .header_logotype h2 {
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	background-image: url("./assets/Hero_Background.png");
+	background-image: url("../assets/Hero_Background.png");
 	background-blend-mode: darken;
 	top: 0;
 	left: 0;
@@ -93,7 +93,7 @@ header .header_logotype h2 {
 	content: '';
 	left: 0;
 	top: 0;
-	background-image: url("./assets/Projetos_Background.png");
+	background-image: url("../assets/Projetos_Background.png");
 	background-blend-mode: darken;
 	z-index: -1;
 	
@@ -131,7 +131,7 @@ header .header_logotype h2 {
 	content: '';
 	left: 0;
 	top: 0;
-	background-image: url("./assets/Servicos_Background.png");
+	background-image: url("../assets/Servicos_Background.png");
 	background-blend-mode: darken;
 	z-index: -1;
 	
@@ -155,7 +155,7 @@ header .header_logotype h2 {
 	content: '';
 	left: 0;
 	top: 0;
-	background-image: url("./assets/Habilidades_Background.png");
+	background-image: url("../assets/Habilidades_Background.png");
 	background-blend-mode: darken;
 	z-index: -1;
 	
